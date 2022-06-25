@@ -1,2 +1,2 @@
 # myapp1
-# gh-pages x, push x
+- gh-pages x, push x
